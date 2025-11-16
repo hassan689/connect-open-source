@@ -13,13 +13,23 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - uses: subosito/flutter-action@v2
+    # FORCE newest flutter-action version
+    - uses: subosito/flutter-action@v2.14.0
       with:
-        flutter-version: '3.22.0'   # includes Dart 3.7.x
-        cache: false               # force download new version
+        flutter-version: "3.22.0"   # includes Dart 3.7.0+
+        cache: false               # disable old cache
 
+    # Delete old flutter installations on the runner
+    - name: Remove old Flutter SDK
+      run: |
+        sudo rm -rf $HOME/flutter
+        sudo rm -rf /opt/hostedtoolcache/flutter
+
+    # Clean pub + flutter cache
     - name: Clean Flutter cache
-      run: flutter clean && flutter pub cache clean
+      run: |
+        flutter clean
+        flutter pub cache clean
 
     - name: Install dependencies
       run: flutter pub get
