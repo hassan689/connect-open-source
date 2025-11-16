@@ -8,6 +8,7 @@ A modern task management application built with Flutter that connects service pr
 <img width="1920" height="864" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/1a437441-fd42-41a9-8d2c-9d94ed3c384e" />
 *demo* 
 https://connect-app-landing.netlify.app/
+Note: you can download the apk from the landing page :) 
 ## 🚀 Features
 
 ### For Task Seekers
