@@ -33,33 +33,13 @@ A modern task management application built with Flutter that connects service pr
 
 ## 📱 Screenshots
 
-### Welcome & Onboarding
-![Onboarding Screen](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/onboarding.png)
-*Welcome screen with Connect branding and social login options*
-
-### Authentication
-![Login Screen](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/login.png)
-*Clean and modern login interface with Dino mascot*
-
-### Main Dashboard
-![Main Screen](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/main-screen.png)
-*Home screen showing task categories, filters, and quick access to post tasks*
-
-### Task Posting - Location Selection
-![Location Selection](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/location-selection.png)
-*Interactive map for selecting task location with search functionality*
-
-### Task Posting - Scheduling
-![Task Scheduling](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/task-scheduling.png)
-*Schedule your tasks with flexible date and time options*
-
-### Map View
-![Map View](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/map-view.png)
-*Interactive map showing available tasks with pricing and distance*
-
-### AI Assistant - Dino
-![AI Assistant](https://raw.githubusercontent.com/hassan689/connect-open-source/main/docs/screenshots/ai-assistant.png)
-*Chat with Dino, your AI guide for navigating the Connect app*
+![sam](https://github.com/user-attachments/assets/3db1f61f-f73b-4129-9b8e-bd832caaa1a6)
+![login scree](https://github.com/user-attachments/assets/86fef8da-f41c-4e9a-b122-ddf55ab7c010)
+![intro](https://github.com/user-attachments/assets/e62a061a-2324-4cc9-99a3-629c9cd491a5)
+![intro](https://github.com/user-attachments/assets/f72d799f-402a-4e03-9e63-e1f4fdb5a628)
+![date](https://github.com/user-attachments/assets/4ee012cb-e850-4a02-ad25-5f746a749545)
+![dino guide](https://github.com/user-attachments/assets/6c1601f3-a5b1-441e-8520-ec7ec5802e7e)
+<img width="1024" height="1536" alt="map" src="https://github.com/user-attachments/assets/7e1de8f6-7e97-49d0-add5-eef69c74f601" />
 
 ## 🛠️ Technology Stack
 
